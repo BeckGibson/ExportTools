@@ -7,7 +7,7 @@ Features:
 1. Move object pivots to top, center or botttom (moves object to 0,0,0)
 2. Apply default material matching object names
 3. Collapse modifier stack
-4. "Unity reset" - resets xForm and applies -90 to the Y transform to ensure import to Unity is 0,0,0 for rotation
+4. "Unity reset" - resets xForm and applies -90 to the X transform to ensure import to Unity is 0,0,0 for rotation
 5. Reset xform
 6. Combine selected objects
 7. Detach elements
